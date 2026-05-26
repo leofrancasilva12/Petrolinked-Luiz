@@ -248,6 +248,10 @@ body::after {
   animation-delay: .56s;
 }
 
+.contact-item:nth-child(5) {
+  animation-delay: .63s;
+}
+
 .contact-item:hover {
   background: rgba(26, 86, 219, .2);
   border-color: rgba(0, 212, 255, .3);
